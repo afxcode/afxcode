@@ -1,20 +1,77 @@
-### 👋 Hi, I’m Anang Fauzi
+# 👋 Hi, I'm Anang Fauzi
 
-I'm a passionate software developer with a keen interest in building robust and scalable applications. My primary focus is on back-end development using Go, but I also enjoy working with front-end technologies like VueJS and React.
+Software engineer focused on backend systems, industrial integration, and infrastructure-oriented development.
 
-### 🌟 Skills
+I primarily work with Go to build reliable services, telemetry pipelines, machine communication systems, and industrial software integrations. My experience includes working with PLC communication, OPC-related systems, TCP networking, observability tooling, and edge-device connectivity in production environments.
 
-- **Go**: Experienced in building high-performance server-side applications.
-- **VueJS & React**: Proficient in developing dynamic and responsive user interfaces.
-- **Database Design**: Familiar with both SQL and NoSQL databases.
+I enjoy solving problems related to:
+- distributed systems
+- real-time communication
+- industrial automation
+- telemetry and observability
+- backend infrastructure
+- protocol and networking layers
 
-### 🌱 Learning Journey
+---
 
-I'm currently diving deep into Domain-Driven Design to enhance my ability to model complex business logic effectively.
+## 🛠 Core Technologies
 
-### 📫 Get in Touch
+### Backend & Systems
+- Go
+- gRPC
+- REST API
+- WebSocket
+- TCP/IP Networking
+- Concurrent Programming
 
-Feel free to reach out to me via [afauzx@gmail.com](mailto:afauzx@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/afauzx).
+### Industrial & Integration
+- PLC Communication
+- OPC Integration
+- Edge Device Integration
+
+### Observability & Infrastructure
+- Prometheus
+- OpenTelemetry
+- Grafana
+- PostgreSQL
+- QuestDB
+- Docker
+- Linux
+
+### Frontend
+- Vue.js
+- React
+
+---
+
+## 🌱 Currently Exploring
+
+- Rust for systems programming and high-performance tooling
+- Distributed systems design
+- Observability architecture
+- Domain-Driven Design (DDD)
+- WebAssembly (WASM)
+
+---
+
+## 🚀 Interests
+
+I’m especially interested in building:
+- telemetry platforms
+- industrial IoT systems
+- backend infrastructure
+- observability tooling
+- edge computing software
+- high-performance network services
+
+---
+
+## 📫 Contact
+
+- Page: [Portfolio](https://afxcode.github.com)
+- Github: [afxcode](https://github.com/afxcode)
+- Email: [afauzx@gmail.com](mailto:afauzx@gmail.com)
+- LinkedIn: [afauzx](https://www.linkedin.com/in/afauzx)
 
 <!---
 afxcode/afxcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
