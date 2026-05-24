@@ -68,7 +68,7 @@ I’m especially interested in building:
 
 ## 📫 Contact
 
-- Page: [Portfolio](https://afxcode.github.com)
+- Page: [Portfolio](https://afxcode.github.io)
 - Github: [afxcode](https://github.com/afxcode)
 - Email: [afauzx@gmail.com](mailto:afauzx@gmail.com)
 - LinkedIn: [afauzx](https://www.linkedin.com/in/afauzx)
